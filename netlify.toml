@@ -1,2 +1,5 @@
 [build]
 publish = "static"
+
+[build.environment]
+HUGO_VERSION = "0.109.0"
